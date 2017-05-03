@@ -1,0 +1,32 @@
+  246  cd demo
+  247  ls
+  248  git status
+  249  mkdir kbtg
+  250  cd kbtg
+  251  ls
+  252  git 
+  253  git status
+  254  git init
+  255  ls -la
+  256  tree .git
+  257  git status
+  258  rm -rf .git
+  259  git status
+  260  git init
+  261  history
+  249  mkdir kbtg
+  250  cd kbtg
+  251  ls
+  252  git 
+  253  git status
+  254  git init
+  255  ls -la
+  256  tree .git
+  257  git status
+  258  rm -rf .git
+  259  git status
+  260  git init
+  261  history
+  262  history >> note.txt
+  263  ls
+  264  git status
